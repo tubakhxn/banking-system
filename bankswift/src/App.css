@@ -1,0 +1,43 @@
+body{
+  background-color: #0B0C10;
+}
+.px-6{
+  padding-left: 7rem;
+  padding-right: 7rem;
+}
+
+.text-custom-blue {
+  color: #66FCF1;
+}
+.bg-custom-blue{
+  background-color: #66FCF1;
+}
+.text-custom-blue:hover{
+  color: #23dbcf;
+}
+.ff-madimi{
+  font-family: "Madimi One", sans-serif;
+
+}
+.view-customer-btn{
+  border: 1px solid  #66FCF1;
+  color: white;
+  padding: 1vh 4vh;
+  margin-top: 20vh;
+  font-family: 'Courier New', Courier, monospace;
+}
+.view-customer-btn:hover{
+  background-color: #66FCF1;
+  font-weight: 800;
+  color: black;
+
+}
+.customer-table-row{
+  border-bottom:  1px solid #ffffff52;
+}
+.customer-table-row:hover{
+  background-color: #ffffff2e;
+}
+.d-contents{
+  display: contents;
+}
