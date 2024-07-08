@@ -1,5 +1,4 @@
-# BankSwiftBackend
-
+# Baisc Banking sustem (BankSwift)
 Welcome to BankSwiftBackend, a Django project integrated with React for facilitating money transfers between users.
 
 ## Overview
